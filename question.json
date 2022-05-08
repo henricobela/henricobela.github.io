@@ -1,0 +1,64 @@
+{
+  "question": [
+    {
+      "botquestion": "Oi"
+    },
+    {
+      "botquestion": "Olá!"
+    },
+    {
+      "botquestion": "Qual seu nome?"
+    },
+    {
+      "botquestion": "Olá, meu nome é Billy, sou o chatbot da FeelingWhat?!!! Vamos começar a pesquisa de satisfação?"
+    },
+    {
+      "botquestion": "Sim"
+    },
+    {
+      "botquestion": "Em uma escala de 0 a 5, quanto recomendaria a BASF para um amigo?"
+    },
+    {
+      "botquestion": 0
+    },
+    {
+      "botquestion": "Muito obrigado pelo seu tempo!!!"
+    },
+    {
+      "botquestion": 1
+    },
+    {
+      "botquestion": "Muito obrigado pelo seu tempo!!!"
+    },
+    {
+      "botquestion": 2
+    },
+    {
+      "botquestion": "Muito obrigado pelo seu tempo!!!"
+    },
+    {
+      "botquestion": 3
+    },
+    {
+      "botquestion": "Muito obrigado pelo seu tempo!!!"
+    },
+    {
+      "botquestion": 4
+    },
+    {
+      "botquestion": "Muito obrigado pelo seu tempo!!!"
+    },
+    {
+      "botquestion": 5
+    },
+    {
+      "botquestion": "Muito obrigado pelo seu tempo!!!"
+    },
+    {
+      "botquestion": "Não"
+    },
+    {
+      "botquestion": "Que pena! Muito obrigado mesmo assim"
+    }
+  ]
+}
