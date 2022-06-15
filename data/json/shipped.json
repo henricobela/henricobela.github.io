@@ -1,22 +1,22 @@
 {
   "shipped": [
     {
-      "shipped": 100
+      "number": 100
     },
     {
-      "shipped": 158
+      "number": 158
     },
     {
-      "shipped": 166
+      "number": 166
     },
     {
-      "shipped": 120
+      "number": 120
     },
     {
-      "shipped": 985
+      "number": 985
     },
     {
-      "shipped": 744
+      "number": 744
     }
   ]
 }
